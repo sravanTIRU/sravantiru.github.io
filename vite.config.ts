@@ -7,5 +7,5 @@ export default defineConfig({
     port: 3000,
     open: false,
   },
-  base: "SravanTG",
+  base: "/sravanTG/",
 });
