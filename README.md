@@ -6,6 +6,8 @@ A modern, responsive personal portfolio website showcasing my experience in **so
 
 The portfolio is built from my professional background and is designed to provide recruiters, developers, educators, and potential collaborators with a clear overview of my skills, experience, education, projects, and career interests.
 
+👉 [View Live Website] (https://sravantiru.github.io/SravanTG-Sample-Portfolio/)
+
 ---
 
 ## ✨ About the Portfolio
