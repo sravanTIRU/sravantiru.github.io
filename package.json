@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://sravanTIRU.github.io/SravanTG",
+  "homepage": "https://sravantiru.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
